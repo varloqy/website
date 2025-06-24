@@ -19,3 +19,17 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#topnavbar {
+    background-color: #34495e;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+#topnavbar a {
+    color: #ecf0f1;
+    margin: 0 15px;
+}
+#topnavbar a:hover {
+    color: #bdc3c7;
+}
